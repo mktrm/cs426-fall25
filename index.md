@@ -49,9 +49,9 @@ The course compares and analyzes security and privacy threats and architectures 
 {% endif %}
 
 ## Lectures
-Lectures are M/W/F from 9:30 am to 10:20 am, [Robert Heine Pharmacy Building 164](https://www.google.com/maps/dir//Robert%20E.%20Heine%20Pharmacy%20Building+575%20Stadium%20Mall%20Drive+West+lafayette+47906?_ga=2.225282650.1948742483.1691952653-526511082.1665511938){:target="_blank"}.
+Lectures are M/W/F from 11:30 am to 12:20 pm, [LAWSON 1142](){:target="_blank"}.
 
-Updated Office Hours on BrightSpace (See [Course Calendar](https://purdue.brightspace.com/d2l/le/calendar/832199/home/list){:target="_blank"}).
+Updated Office Hours on BrightSpace (See [Course Calendar](https://purdue.brightspace.com/d2l/le/calendar/1216789/list){:target="_blank"}).
 
 ## Prerequisite 
 The formal prerequisite is undergraduate level CS 25100 minimum grade of C and undergraduate level CS 25200 minimum grade of C [may be taken concurrently] or undergraduate level ECE 46900 Minimum Grade of C or undergraduate level EE 46900 Minimum Grade of C. However, to complete the assignments in this course, you will need to be able to write code in Python, C, and (some) C++, and have some understanding of x86 assembly, JavaScript, PHP, and SQL. We will not teach these in lecture; you are expected to learn them on your own or ask for help in office hours.
@@ -71,11 +71,11 @@ We try to be clear about what is okay to skim and what will be helpful to read d
 Course format is lectures three days a week. Attendance is not optional. The slides will be available for download before each lecture (See [Agenda](#agenda-tentative)). 
 
 {: .note }
-A quick reminder: **Active engagement** and **re-enforcement** are keys to successful and effective learning. Therefore, we will have plenty of activities during lectures. These activities also help you to meet and interact with other students. Moroever, assignments, and grading are designed to help with re-enforcement and active engagement.
+A quick reminder: **Active engagement** and **re-enforcement** are keys to successful and effective learning. Therefore, we will have plenty of activities during lectures. These activities also help you to meet and interact with other students. Moreover, assignments, and grading are designed to help with re-enforcement and active engagement.
 
 
 ## Online Discussion
-Discussions, Q&A, peer-to-peer instruction, etc. take place on our [edstem](https://purdue.brightspace.com/d2l/le/content/832199/viewContent/14037232/View){:target="_blank"}. Use the link in [Brightspace](https://purdue.brightspace.com/d2l/le/content/832199/viewContent/14037232/View) to join the class on edstem. You are encouraged to post questions, help answer other students' questions, and provide feedback and suggestions to your instruction staff. Constructive criticism is always welcome. 
+Discussions, Q&A, peer-to-peer instruction, etc. take place on our [edstem](){:target="_blank"}. Use the link in [Brightspace]() to join the class on edstem. You are encouraged to post questions, help answer other students' questions, and provide feedback and suggestions to your instruction staff. Constructive criticism is always welcome. 
 
 {: .warning }
 While the instruction staff will do their best to answer any question as soon as possible, be aware (and plan ahead) that instruction staff will not be available 24/7. 
@@ -110,7 +110,7 @@ We reserve the right to modify these ranges and the following tentative grading 
 
 
 ### Weekly Check-in (5%)
-During lectures, we will have interactive question and answer activities in the class. We will use [Hotseat](https://purdue.brightspace.com/d2l/le/content/832199/viewContent/13837914/View) for polls and discussions. 
+During lectures, we will have interactive question and answer activities in the class. We will use [TBD](https://TBD) for polls and discussions. 
 These are opportunities for you to check your understanding and for us to go back and help explain concepts more thoroughly that may be confusing folks.
 These in-lecture polls will not be graded for correctness or attendance.
 However, on each Wednesday (from 2nd week onward), we will collect all of the poll questions of the week and release a mini-quiz on BrightSpace. The quiz must be completed by midnight (campus time) the following Thursday. **So, you will have at least 24 hours to complete them.**
@@ -120,18 +120,18 @@ These quizzes are primarily for you, to help you stay on track and to check your
 ### Homework (60%)
 These are longer form assignments that include both programming and a non-programming conceptual section. You are welcome to discuss homework problems with other students or in groups, however, you must complete your final writeup alone.
 
-Homework submission will be via the [Gradescope](https://www.gradescope.com/courses/582792){:target="_blank"}. If you are enrolled in the class you should see the class in your Gradescope account. Regrade requests will also be handled via Gradescope. The window for regrades will be no more than one week after graded homework is returned.
+Homework submission will be via the [Gradescope](https://www.gradescope.com/courses/TBD){:target="_blank"}. If you are enrolled in the class you should see the class in your Gradescope account. Regrade requests will also be handled via Gradescope. The window for regrades will be no more than one week after graded homework is returned.
 
 We will have 5 homework sets. Generally they will be released on Mondays and you will have 2-3 weeks to submit. See the tentative schedule for more information on the schedule of the homework assignments ([Agenda](#agenda-tentative)). Homework 1 will be worth 6% and the remaining homework (Homework 2-5) will each be worth 13.5% of the final grade, making the total Homework grade 6 + 4 * 13.5 = 60% of your final grade. 
 
 ### Midterm (15%)
 This course will have one midterm exam.
-The midterm is scheduled to be **in class on Wed Oct 18**. 
+The midterm is scheduled to be **in class on TBD**. 
 
 ### Final (20%)
 The final exam will be cumulative over all of the course content.
 
-The registrar has assigned: **Wed Dec 13th, 8-10 AM at KRAN G016** as the final exam time slot for this course.
+We are waiting for the registrar to assign a exam slot for us. We will announce the date/time and location as soon as we get a slot.
 
 
 ## Late Assignments
@@ -176,7 +176,7 @@ HW4 | [pdf](https://canvas.ucsd.edu/files/4794176/download?download_frd=1) | [do
 
 ## University Policies and Statements 
 
-Please see [Brightspace](https://purdue.brightspace.com/d2l/le/content/832199/Home) for complete list of university policies and statements. 
+Please see [Brightspace]() for complete list of university policies and statements. 
 
 
 
