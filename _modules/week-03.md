@@ -14,5 +14,5 @@ Jan 29
 
 Jan 31
 : [Buffer Overflow Defenses 1](https://purdue.brightspace.com/d2l/le/content/832199/viewContent/14177373/View)
-  :
+  :  
   : <details title="recommended readings" class="my"><summary><i class="icon fas fa-book-reader "></i></summary><span class="fs-2" markdown=1> Read [ASLR](https://pax.grsecurity.net/docs/aslr.txt); [NOEXEC](https://pax.grsecurity.net/docs/noexec.txt).</span></details>
