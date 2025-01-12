@@ -16,7 +16,6 @@ Watch: USENIX Security 2018 Keynote by James Mickens</span></details>
 
 Jan 17
 : [Security Fundamentals 2](https://purdue.brightspace.com/d2l/le/content/832199/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-14079300)
-  : 
   : [](#)
 
 
