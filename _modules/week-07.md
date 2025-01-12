@@ -15,3 +15,4 @@ Feb 26
 Feb 28
 : [Side Channels 3](https://purdue.brightspace.com/d2l/le/content/832199/viewContent/14701042/View)
   : [](#)
+  
