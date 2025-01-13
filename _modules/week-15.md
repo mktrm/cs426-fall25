@@ -8,9 +8,9 @@ Apr 21
 
 Apr 23  
 : [TLS](https://purdue.brightspace.com/d2l/le/content/832199/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-14746477)
-  :  [**HW5 Due**](#){: .label .label-yellow }
+  : 
 
 Apr 25 
 : [Privacy]()
-  :  
+  :  [**HW5 Due**](#){: .label .label-yellow }
 
