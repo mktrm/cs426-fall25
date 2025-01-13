@@ -75,7 +75,7 @@ A quick reminder: **Active engagement** and **re-enforcement** are keys to succe
 
 
 ## Online Discussion
-Discussions, Q&A, peer-to-peer instruction, etc. take place on our [edstem](){:target="_blank"}. Use the link in [Brightspace]() to join the class on edstem. You are encouraged to post questions, help answer other students' questions, and provide feedback and suggestions to your instruction staff. Constructive criticism is always welcome. 
+Discussions, Q&A, peer-to-peer instruction, etc. take place on our [edstem](https://edstem.org/us/courses/73321/discussion){:target="_blank"}. Use the link in [Brightspace](https://purdue.brightspace.com/d2l/le/content/1216789/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-18693004) to join the class on edstem. You are encouraged to post questions, help answer other students' questions, and provide feedback and suggestions to your instruction staff. Constructive criticism is always welcome. 
 
 {: .warning }
 While the instruction staff will do their best to answer any question as soon as possible, be aware (and plan ahead) that instruction staff will not be available 24/7. 

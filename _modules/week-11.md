@@ -8,11 +8,11 @@ Mar 24
 
 Mar 26
 : [Web Attacks-3 and Network Intro]()
-  :  (guest lecture by Prof. Garman)
+  :  
 
 Mar 28
 : [Hands-on CTF examples]()
-  : (by TAs)
+  : 
 
 
 
