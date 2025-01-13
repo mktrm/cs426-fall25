@@ -16,4 +16,4 @@ Mar 12
 
 Mar 14
 : [Web Attacks]()
-  : [**HW3 Due**](https://purdue.brightspace.com/d2l/le/content/832199/viewContent/14256149/View){: .label .label-yellow }[**HW4 Release**](#){: .label .label-purple }
+  : [**HW3 Due**](){: .label .label-yellow }[**HW4 Release**](#){: .label .label-purple }
