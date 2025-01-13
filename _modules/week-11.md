@@ -3,11 +3,11 @@ title: Week-11
 ---
 
 Mar 24
-: [Web Attacks-2](https://purdue.brightspace.com/d2l/le/content/832199/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-14746477)
+: [Web Attacks-2]()
   : 
 
 Mar 26
-: [Web Attacks-3 and Network Intro](https://purdue.brightspace.com/d2l/le/content/832199/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-14746477)
+: [Web Attacks-3 and Network Intro]()
   :  (guest lecture by Prof. Garman)
 
 Mar 28
