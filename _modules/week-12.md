@@ -2,7 +2,7 @@
 title: Week-12
 ---
 
-March 31
+Mar 31
 : [Network-2](https://purdue.brightspace.com/d2l/le/content/832199/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-14746477)
   : 
 
