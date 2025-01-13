@@ -3,16 +3,16 @@ title: 'Week-8'
 ---
 
 
-Oct 09
-: **Fall Break (No Class)**
+March 03
+: [Side Channels 4](https://purdue.brightspace.com/d2l/le/content/832199/viewContent/14701041/View)
   : [](#)
   
 
-Oct 11
-: [Side Channels 3](https://purdue.brightspace.com/d2l/le/content/832199/viewContent/14701042/View)
-  : [](#)
+March 05
+: [Midterm Review]()
+  : 
 
-Oct 13
-: [Side Channels 4](https://purdue.brightspace.com/d2l/le/content/832199/viewContent/14701041/View)
-  : [](#)
+March 07
+: [Midterm Exam]()
+  :
 
