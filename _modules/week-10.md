@@ -2,17 +2,17 @@
 title: Week-10
 ---
 
-Oct 23
-: [Web Intro](https://purdue.brightspace.com/d2l/le/content/832199/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-14746477)
-  :  
+March 17
+: **Spring Break (No Class)**
+  : [](#)
 
-Oct 25
-: [Web Attacks](https://purdue.brightspace.com/d2l/le/content/832199/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-14746477)
-  : [**HW3 Due**](https://purdue.brightspace.com/d2l/le/content/832199/viewContent/14256149/View){: .label .label-yellow }[**HW4 Release**](#){: .label .label-purple }
+March 19
+: **Spring Break (No Class)**
+  : [](#)
 
-Oct 27
-: [Web Attacks-2](https://purdue.brightspace.com/d2l/le/content/832199/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-14746477)
-  : 
+March 21
+: **Spring Break (No Class)**
+  : [](#)
 
 
 
