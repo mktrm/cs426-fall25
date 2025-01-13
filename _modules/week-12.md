@@ -3,15 +3,15 @@ title: Week-12
 ---
 
 Mar 31
-: [Network-2](https://purdue.brightspace.com/d2l/le/content/832199/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-14746477)
+: [Network-2]()
   : 
 
 Apr 02
-: [Network Attacks](https://purdue.brightspace.com/d2l/le/content/832199/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-14746477)
+: [Network Attacks]()
   :  
 
 Apr 04
-: [Network Attacks-2](https://purdue.brightspace.com/d2l/le/content/832199/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-14746477)
+: [Network Attacks-2]()
   : 
 
 
