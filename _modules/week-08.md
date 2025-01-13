@@ -14,5 +14,5 @@ March 05
 
 March 07
 : [Midterm Exam]()
-  :
+  : 
 
