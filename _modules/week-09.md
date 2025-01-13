@@ -16,4 +16,4 @@ March 12
 
 March 14
 : [Web Attacks](https://purdue.brightspace.com/d2l/le/content/832199/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-14746477)
-  : 
+  : [**HW3 Due**](https://purdue.brightspace.com/d2l/le/content/832199/viewContent/14256149/View){: .label .label-yellow }[**HW4 Release**](#){: .label .label-purple }
