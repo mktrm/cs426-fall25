@@ -51,7 +51,7 @@ The course compares and analyzes security and privacy threats and architectures 
 ## Lectures
 Lectures are M/W/F from 11:30 am to 12:20 pm, [LAWSON 1142](){:target="_blank"}.
 
-Updated Office Hours on BrightSpace (See [Course Calendar](https://purdue.brightspace.com/d2l/le/calendar/1216789/list){:target="_blank"}).
+Updated Office Hours on BrightSpace (See [Course Calendar](https://purdue.brightspace.com/d2l/le/content/1216789/Home){:target="_blank"}).
 
 ## Prerequisite 
 The formal prerequisite is undergraduate level CS 25100 minimum grade of C and undergraduate level CS 25200 minimum grade of C [may be taken concurrently] or undergraduate level ECE 46900 Minimum Grade of C or undergraduate level EE 46900 Minimum Grade of C. However, to complete the assignments in this course, you will need to be able to write code in Python, C, and (some) C++, and have some understanding of x86 assembly, JavaScript, PHP, and SQL. We will not teach these in lecture; you are expected to learn them on your own or ask for help in office hours.
