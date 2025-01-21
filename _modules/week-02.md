@@ -4,7 +4,7 @@ title: 'Week-2'
 
 Jan 20
 : **MLK Day (No Class)**
-  : [**HW1 Release**](){: .label .label-purple }
+  : [**HW1 Release**](https://purdue.brightspace.com/d2l/le/content/1216789/viewContent/18770963/View){: .label .label-purple }
 
 
 Jan 22
