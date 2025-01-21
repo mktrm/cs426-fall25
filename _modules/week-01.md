@@ -15,7 +15,7 @@ Jan 15
 Watch: USENIX Security 2018 Keynote by James Mickens</span></details> 
 
 Jan 17
-: [No Class]()
+: **MLK Day (No Class)**
   : [](#)
 
 
