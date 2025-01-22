@@ -112,7 +112,7 @@ We reserve the right to modify these ranges and the following tentative grading 
 During lectures, we will have interactive question and answer activities in the class. We will use [iClicker](https://www.iclicker.com) for polls and discussions. 
 These are opportunities for you to check your understanding and for us to go back and help explain concepts more thoroughly that may be confusing folks.
 These in-lecture polls will **not** be graded for correctness or attendance.
-However, on each Wednesday (from 2nd week onward), we will collect all of the poll questions of the week and release a mini-quiz on BrightSpace. The quiz must be completed by midnight (campus time) the following Thursday. **So, you will have at least 24 hours to complete them.**
+However, on each Wednesday (from 2nd week onward), we will collect all of the poll questions of the week and release a mini-quiz on BrightSpace. The quiz must be completed by the class time (campus time) the following Friday. **So, you will have at least 24 hours to complete them.**
 
 These quizzes are primarily for you, to help you stay on track and to check your own understanding. Therefore, **we will not grade them for correctness**. If you complete the quiz, you will earn full points for that week. However, if your raw score on a quiz is low, come to discussion sections or office hours and get help!
 
