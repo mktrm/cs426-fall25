@@ -4,7 +4,7 @@ title: 'Week-2'
 
 Jan 20
 : **MLK Day (No Class)**
-  : [**HW1 Release**](https://purdue.brightspace.com/d2l/home/1216789){: .label .label-purple }
+  : [**HW1 Release**]([https://purdue.brightspace.com/d2l/home/1216789](https://purdue.brightspace.com/d2l/le/content/1216789/viewContent/18771218/View)){: .label .label-purple }
 
 Jan 22
 : [Security Fundamentals 2](https://purdue.brightspace.com/d2l/le/content/1216789/viewContent/18739385/View)
