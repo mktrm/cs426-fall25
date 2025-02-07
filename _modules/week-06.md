@@ -2,10 +2,6 @@
 title: "Week-6"
 ---
 
----
-title: "Week-6"
----
-
 Feb 17
 : [Memory safety (Heap & Int Overflow)]()
   :  [**HW2 Due**](https://purdue.brightspace.com/d2l/le/content/1216789/viewContent/18813142/View){: .label .label-yellow }[**HW3 Release**](){: .label .label-purple }
