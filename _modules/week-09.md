@@ -6,12 +6,12 @@ title: Week-9
 
 
 Mar 10
-: [Side Channels 2]()
+: [Side Channels 2](https://purdue.brightspace.com/d2l/le/content/1216789/viewContent/18939299/View)
   : 
   : [](#)
 
 Mar 12
-: [Side Channels 3]()
+: [Side Channels 3](https://purdue.brightspace.com/d2l/le/content/1216789/viewContent/18939299/View)
   : [](#)
 
 Mar 14
