@@ -3,13 +3,13 @@ title: Week-11
 ---
 
 Mar 24
-: [Web Intro 2]()
+: [Web Intro 2](https://purdue.brightspace.com/d2l/le/content/1216789/viewContent/19012089/View)
   :  
 
 Mar 26
-: [Web Attacks]()
+: [Web Attacks](https://purdue.brightspace.com/d2l/le/content/1216789/viewContent/19012089/View)
   : 
 
 Mar 28
-: [Web Attacks-2]()
+: [Web Attacks-2](https://purdue.brightspace.com/d2l/le/content/1216789/viewContent/19012089/View)
   : 
