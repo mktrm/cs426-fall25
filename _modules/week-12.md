@@ -3,13 +3,13 @@ title: Week-12
 ---
 
 Mar 31
-: [Network Intro]()
+: **Class Canceled**
   : guest lecture
 
 Apr 02
-: [Network-2]() and [Network Attacks]()
-  : guest lecture
+: Web (SQL injection)
+  : Delivered by TAs (Milad and Qi)
 
 Apr 04
-: [Network Attacks-2]()
-  : guest lecture
+: Web (Cross-site Scripting (XSS))
+  : 
