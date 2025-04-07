@@ -3,7 +3,7 @@ title: Week-13
 ---
 
 Apr 07 
-: [Network Intro]()
+: [Network Intro](https://purdue.brightspace.com/d2l/le/content/1216789/viewContent/19052401/View)
   :  
 
 Apr 09  
