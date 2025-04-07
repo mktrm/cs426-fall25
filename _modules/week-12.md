@@ -11,5 +11,5 @@ Apr 02
   : Delivered by TAs (Milad and Qi)
 
 Apr 04
-: [Web (Cross-site Scripting (XSS))] (https://purdue.brightspace.com/d2l/le/content/1216789/viewContent/19012089/View)
+: [Web (Cross-site Scripting (XSS))](https://purdue.brightspace.com/d2l/le/content/1216789/viewContent/19012089/View)
   : 
