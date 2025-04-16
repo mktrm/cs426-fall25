@@ -7,9 +7,9 @@ Apr 28
   : 
 
 Apr 30
-: [TLS]()
+: [TLS + Privacy]()
   : 
   
 May 02
-: [Privacy]()
+: [Final Review]()
   : 
