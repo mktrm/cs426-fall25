@@ -7,7 +7,7 @@ Apr 28
   : 
 
 Apr 30
-: [TLS + Privacy]()
+: [TLS & Privacy]()
   : 
   
 May 02
