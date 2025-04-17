@@ -12,4 +12,4 @@ Apr 09
 
 Apr 11 
 : [Network Attacks-2](https://purdue.brightspace.com/d2l/le/content/1216789/viewContent/19071111/View)
-  : 
+  : [**HW5 Release**]([#](https://purdue.brightspace.com/d2l/le/content/1216789/viewContent/19074253/View)){: .label .label-purple }
