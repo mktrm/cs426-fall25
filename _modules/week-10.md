@@ -3,7 +3,7 @@ title: Week-10
 ---
 
 Oct 28
-: [Side Channels (2&3)]()
+: [Side Channels 2]()
   : 
   : [](#)
 
