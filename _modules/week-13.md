@@ -8,5 +8,5 @@ Nov 18
   : [**HW5 Release**](){: .label .label-purple }
 
 Nov 20 
-: [Network Defenses](https://purdue.brightspace.com/d2l/le/content/1216789/viewContent/19077608/View)
+: [Network Defenses]()
   : 
