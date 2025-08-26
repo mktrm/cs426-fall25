@@ -49,7 +49,7 @@ The course compares and analyzes security and privacy threats and architectures 
 {% endif %}
 
 ## Lectures
-Lectures are M/W/F from 11:30 am to 12:20 pm, [LAWSON 1142](){:target="_blank"}.
+Lectures are Tu/Th from 1:30 pm to 2:45 pm, [Wetherill Lab of Chemistry 320](){:target="_blank"}.
 
 Updated Office Hours on BrightSpace (See [Course Calendar](https://purdue.brightspace.com/d2l/le/content/1216789/Home){:target="_blank"}).
 
