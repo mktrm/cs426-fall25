@@ -75,7 +75,7 @@ A quick reminder: **Active engagement** and **re-enforcement** are keys to succe
 
 
 ## Online Discussion
-Discussions, Q&A, peer-to-peer instruction, etc. take place on our [edstem](https://edstem.org/us/courses/73321/discussion){:target="_blank"}. Use the link in [Brightspace](https://purdue.brightspace.com/d2l/le/content/1216789/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-18693004) to join the class on edstem. You are encouraged to post questions, help answer other students' questions, and provide feedback and suggestions to your instruction staff. Constructive criticism is always welcome. 
+Discussions, Q&A, peer-to-peer instruction, etc. take place on our [edstem](https://edstem.org/us/courses/84797/discussion){:target="_blank"}. Use the link in [Brightspace](https://purdue.brightspace.com/d2l/le/content/1360139/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-20121558) to join the class on edstem. You are encouraged to post questions, help answer other students' questions, and provide feedback and suggestions to your instruction staff. Constructive criticism is always welcome. 
 
 {: .warning }
 While the instruction staff will do their best to answer any question as soon as possible, be aware (and plan ahead) that instruction staff will not be available 24/7. 
@@ -109,32 +109,32 @@ We reserve the right to modify these ranges and the following tentative grading 
 
 
 ### Weekly Check-in (5%)
-During lectures, we will have interactive question and answer activities in the class. We will use [iClicker](https://www.iclicker.com) for polls and discussions. 
+During lectures, we will have interactive question and answer activities in the class. We will use [slido](https://app.sli.do/event/ano1NnWSva5SMsemZM8TFN) for polls and discussions. 
 These are opportunities for you to check your understanding and for us to go back and help explain concepts more thoroughly that may be confusing folks.
 These in-lecture polls will **not** be graded for correctness or attendance.
 However, on each Wednesday (from 2nd week onward), we will collect all of the poll questions of the week and release a weekly check-in mini-quiz on BrightSpace. The weekly check-ins must be completed by the class time (campus time) the following Friday. **So, you will have at least 24 hours to complete them.**
 
 These weekly check-ins are primarily for you, to help you stay on track and to check your own understanding. Therefore, **we will not grade them for correctness**. If you complete the weekly check-in quiz, you will earn full points for that week. However, if your raw score on a weekly check-in is low, come to discussion sections or office hours and get help!
 
-### Homework (60%)
+### Homework (40%)
 These are longer form assignments that include both programming and a non-programming conceptual section. You are welcome to discuss homework problems with other students or in groups, however, you must complete your final writeup alone.
 
-Homework submission will be via the [Gradescope](https://www.gradescope.com/courses/958540){:target="_blank"}. If you are enrolled in the class you should see the class in your Gradescope account. Regrade requests will also be handled via Gradescope. The window for regrades will be no more than one week after graded homework is returned.
+Homework submission will be via the [Gradescope](https://www.gradescope.com/courses/TBD){:target="_blank"}. If you are enrolled in the class you should see the class in your Gradescope account. Regrade requests will also be handled via Gradescope. The window for regrades will be no more than one week after graded homework is returned.
 
 We will have 5 homework sets. Generally they will be released on Mondays and you will have 2-3 weeks to submit. See the tentative schedule for more information on the schedule of the homework assignments ([Agenda](#agenda-tentative)). Homework 1 will be worth 6% and the remaining homework (Homework 2-5) will each be worth 13.5% of the final grade, making the total Homework grade 6 + 4 * 13.5 = 60% of your final grade. 
 
 ### Midterm (15%)
 This course will have one midterm exam.
-The midterm is scheduled to be **in class on March 7**. 
+The midterm is scheduled to be **in class on TBD**. 
 
-### Final (20%)
+### Final (40%)
 The final exam will be cumulative over all of the course content.
 
 We are waiting for the registrar to assign a exam slot for us. We will announce the date/time and location as soon as we get a slot.
 
 
 ## Late Assignments
-You will have 3 late days during the whole semester for late homework. You will also have 3 late days for weekly check-ins. You can use your late days however you wish to. Note that the granularity of this is *days*. That means, if you submit your homework any time in the next 24 hours after the deadline, you are using one of your late days. 
+You will have 4 late days during the whole semester for late homework. You will also have 4 late days for weekly check-ins. You can use your late days however you wish to. Note that the granularity of this is *days*. That means, if you submit your homework any time in the next 24 hours after the deadline, you are using one of your late days. 
 
 
 
