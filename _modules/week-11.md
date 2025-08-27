@@ -3,9 +3,9 @@ title: Week-11
 ---
 
 Nov 4
-: [Web Intro 2]()
+: [Web Security 2]()
   : [](#)
 
 Nov 6
-: [Web Attacks]()
-  : [**HW4 Release**](){: .label .label-purple }
+: [Network Intro]()
+  : [**HW7 Due**](){: .label .label-yellow } [**HW8 Release**](){: .label .label-purple }

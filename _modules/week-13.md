@@ -3,10 +3,9 @@ title: Week-13
 ---
 
 Nov 18 
-: [Network Attacks]()
-  : [**HW4 Due**](){: .label .label-yellow }
-  : [**HW5 Release**](){: .label .label-purple }
+: [Symmetric Key Crypto 1]()
+  : 
 
 Nov 20 
-: [Network Defenses]()
+: [Symmetric Key Crypto 2]()
   : 

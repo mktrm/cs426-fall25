@@ -3,9 +3,10 @@ title: Week-12
 ---
 
 Nov 11
-: [Web]()
+: [Network Attacks]()
   : [](#)
 
 Nov 13
-: [Network Intro]()
+: [Network Defenses]()
+  : [**HW8 Due**](){: .label .label-yellow } [**HW9 Release**](){: .label .label-purple }
   : [](#)
