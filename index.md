@@ -112,7 +112,7 @@ We reserve the right to modify these ranges and the following tentative grading 
 During lectures, we will have interactive question and answer activities in the class. We will use [slido](https://app.sli.do/event/ano1NnWSva5SMsemZM8TFN) for polls and discussions. 
 These are opportunities for you to check your understanding and for us to go back and help explain concepts more thoroughly that may be confusing folks.
 These in-lecture polls will **not** be graded for correctness or attendance.
-However, on each Wednesday (from 2nd week onward), we will collect all of the poll questions of the week and release a weekly check-in mini-quiz on BrightSpace. The weekly check-ins must be completed by the class time (campus time) the following Friday. **So, you will have at least 24 hours to complete them.**
+However, on each Wednesday (from 2nd week onward), we will collect all of the poll questions of the week and release a weekly check-in mini-quiz on BrightSpace. The weekly check-ins must be completed by the class time (campus time) the following Thursday. **So, you will have at least 24 hours to complete them.**
 
 These weekly check-ins are primarily for you, to help you stay on track and to check your own understanding. Therefore, **we will not grade them for correctness**. If you complete the weekly check-in quiz, you will earn full points for that week. However, if your raw score on a weekly check-in is low, come to discussion sections or office hours and get help!
 
@@ -121,11 +121,11 @@ These are longer form assignments that include both programming and a non-progra
 
 Homework submission will be via the [Gradescope](https://www.gradescope.com/courses/TBD){:target="_blank"}. If you are enrolled in the class you should see the class in your Gradescope account. Regrade requests will also be handled via Gradescope. The window for regrades will be no more than one week after graded homework is returned.
 
-We will have 5 homework sets. Generally they will be released on Mondays and you will have 2-3 weeks to submit. See the tentative schedule for more information on the schedule of the homework assignments ([Agenda](#agenda-tentative)). Homework 1 will be worth 6% and the remaining homework (Homework 2-5) will each be worth 13.5% of the final grade, making the total Homework grade 6 + 4 * 13.5 = 60% of your final grade. 
+We will have ~10 homework sets. Generally they will be released on Thursdays and you will have 1 weeks to submit. See the tentative schedule for more information on the schedule of the homework assignments ([Agenda](#agenda-tentative)). Homework assignments will have equal grades and together they will be 40% of your final grade. 
 
 ### Midterm (15%)
 This course will have one midterm exam.
-The midterm is scheduled to be **in class on TBD**. 
+The midterm is scheduled to be **in class on Oct 23**. 
 
 ### Final (40%)
 The final exam will be cumulative over all of the course content.
