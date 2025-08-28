@@ -7,6 +7,6 @@ Nov 11
   : [](#)
 
 Nov 13
-: [Network Defenses]()
+: [Network Defenses and AI Security]()
   : [**HW8 Due**](){: .label .label-yellow } [**HW9 Release**](){: .label .label-purple }
   : [](#)

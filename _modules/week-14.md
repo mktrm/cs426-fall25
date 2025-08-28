@@ -3,7 +3,7 @@ title: Week-14
 ---
 
 Nov 25  
-: [Public Key Crypto-1](https://purdue.brightspace.com/d2l/le/content/1216789/viewContent/19088038/View)
+: [Symmetric Key Crypto 2](https://purdue.brightspace.com/d2l/le/content/1216789/viewContent/19088038/View)
   : 
 
 Nov 27 
