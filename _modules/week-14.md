@@ -2,9 +2,8 @@
 title: Week-14
 ---
 
-Nov 25  
-: [Symmetric Key Crypto 2](https://purdue.brightspace.com/d2l/le/content/1216789/viewContent/19088038/View)
-  : 
+Nov 25
+: **No Class**
 
 Nov 27 
 : **Thanksgiving Break (No Class)**
