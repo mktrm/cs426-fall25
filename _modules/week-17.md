@@ -2,9 +2,9 @@
 title: Final
 ---
 
-TBD
+Dec 18
 : [Final Exam]()
-  :  TBD
+  :  **10:30AM - 12:30 PM** at **BHEE 170**
 
 
 

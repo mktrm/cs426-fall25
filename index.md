@@ -129,8 +129,7 @@ The midterm is scheduled to be **in class on Oct 23**.
 
 ### Final (40%)
 The final exam will be cumulative over all of the course content.
-
-We are waiting for the registrar to assign a exam slot for us. We will announce the date/time and location as soon as we get a slot.
+The final is scheduled to be on **Thursday 12/18 10:30AM - 12:30 PM** at **BHEE 170**
 
 
 ## Late Assignments
